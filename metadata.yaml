@@ -1,4 +1,8 @@
 _repo: Bohemia-From-the-earliest-times-to-the-fall-of-national-independence-in-1620-with-a-short-sum__49955
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49955-h/images/cover.jpg
 creator:
   author:
     agent_name: Maurice, C. Edmund (Charles Edmund)
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '40070'
     url: http://www.gutenberg.org/2009/agents/40070
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49955#Bohemia-From-the-earliest-times-to-the-fall-of-national-independence-in-1620-with-a-short-sum_
 gutenberg_issued: '2015-09-13'
 gutenberg_type: Text
 identifiers:
